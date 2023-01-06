@@ -4,6 +4,7 @@ with which you can create files from
 cmd, git-bash, powershell etc. very easily.
 
 <h3>Usage</h3>
+
 ```commandline
 crefi
 ```
