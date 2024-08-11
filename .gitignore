@@ -5,5 +5,3 @@
 # Conventional directory for build output.
 build/
 .idea/
-lib/
-bin/crefi.dart
